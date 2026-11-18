@@ -1,0 +1,25 @@
+{
+  "interface": {
+    "capabilities": [
+      "skills"
+    ],
+    "category": "Other",
+    "composerIcon": "./assets/gpt-icon.jpg",
+    "defaultPrompt": [
+      "Start"
+    ],
+    "developerName": "Amy Reid",
+    "displayName": "TGCNSBDC - Marketing Plan Pro",
+    "logo": "./assets/gpt-icon.jpg",
+    "longDescription": "Welcome to Marketing Plan Pro! I am here to assist SBDC advisors in crafting a dynamic marketing plan with clients. Click \"start\" to begin.",
+    "shortDescription": "Practical marketing plans"
+  },
+  "name": "gpt-b88f489a8559242c6c2f03241c76b3bf",
+  "version": "0.4.4",
+  "description": "Welcome to Marketing Plan Pro! I am here to assist SBDC advisors in crafting a dynamic marketing plan with clients. Click \"start\" to begin.",
+  "author": {
+    "name": "Amy Reid"
+  },
+  "keywords": [],
+  "skills": "./skills"
+}

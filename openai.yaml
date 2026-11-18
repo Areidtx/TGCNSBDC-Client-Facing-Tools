@@ -1,0 +1,14 @@
+interface:
+  display_name: TGCNSBDC - Branded Document Skill
+  short_description: Create documents with the TGCNSBDC logo and footer
+  default_prompt: Use $tgcnsbdc-branded-documents to create a document with the network
+    logo at the upper left and www.sbdc.uh.edu in the footer.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
